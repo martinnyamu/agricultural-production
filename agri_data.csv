@@ -1,0 +1,16 @@
+﻿County,Crop,Year,Area_Hectares,Production_Tonnes,Irrigation_Status
+Trans Nzoia,Maize,2023,105000,480000,Rainfed
+Uasin Gishu,Maize,2023,98000,450000,Rainfed
+Narok ,Wheat,2023,85000,280000,Rainfed
+Kirinyaga,Rice,2023,12000,75000,Canal
+Meru,Tea,2023,18000,120000,Rainfed
+Kericho,Tea,2023,22000,155000,Rainfed
+Bungoma,Sugarcane,2023,35000,950000,Rainfed
+Nyandarua,Irish Potatoes,2023,32000,520000,Rainfed
+Trans Nzoia,Maize,2022,102000,520000,Rainfed
+narok,Wheat,2022,82000,265000,Rainfed
+Kirinyaga,Rice,2022,11500,72000,Canal
+Nakuru,Maize,2023,45000,185000,Rainfed
+Machakos,Green Grams,2023,15000,9500,Rainfed
+Makueni,Green Grams,2023,18000,11000,Rainfed
+Kiambu,Coffee,2023,14000,25000,Rainfed
